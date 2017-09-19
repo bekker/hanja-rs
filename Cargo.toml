@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Jang Ryeol <northfolk28@gmail.com>"]
 
 [dependencies]
+phf_codegen = "0.7.21"
+phf = "0.7.21"
