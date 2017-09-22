@@ -1,4 +1,4 @@
-# hangeul-rs
+# hanja-rs
 
 [![Build Status](https://travis-ci.org/bekker/hanja-rs.svg?branch=master)](https://travis-ci.org/bekker/hanja-rs)
 
