@@ -2,7 +2,20 @@
 name = "hanja"
 version = "0.1.0"
 authors = ["Jang Ryeol <northfolk28@gmail.com>"]
+description = "Korean alphabet manipulation library"
+
+documentation = "https://docs.rs/hanja"
+repository = "https://github.com/bekker/hanja-rs"
+
+readme = "README.md"
+
+keywords = ["hangul", "hangeul", "korean", "libhangul", "hanja"]
+license = "MIT"
+
+build = "build.rs"
+
+[build-dependencies]
+phf_codegen = "0.7.21"
 
 [dependencies]
-phf_codegen = "0.7.21"
 phf = "0.7.21"
