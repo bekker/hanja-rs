@@ -18,7 +18,7 @@ Hanja dictionary and frequency data credited to [libhangul](https://github.com/c
 
 ```toml
 [dependencies]
-hanja = "0.1.0"
+hanja = "0.1.1"
 ```
 
 ## Usage

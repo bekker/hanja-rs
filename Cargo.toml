@@ -1,8 +1,8 @@
 [package]
 name = "hanja"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jang Ryeol <northfolk28@gmail.com>"]
-description = "Korean alphabet manipulation library"
+description = "Korean-Hanja(Chinese character for Korean language) dictionary"
 
 documentation = "https://docs.rs/hanja"
 repository = "https://github.com/bekker/hanja-rs"
