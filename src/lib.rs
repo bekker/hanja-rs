@@ -4,10 +4,10 @@ extern crate phf;
 
 #[cfg(test)]
 mod tests {
-    use super::lookup_hangeul;
+    use super::get;
     #[test]
     fn it_works() {
-        match lookup_hangeul('가').unwrap()[0] {
+        match get('가').unwrap()[0] {
             (hanja, _) => assert_eq!(hanja, '可')
         }
     }
